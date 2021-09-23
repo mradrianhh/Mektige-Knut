@@ -1,0 +1,6 @@
+Need to decide on the depth of customization to the characters.
+The characters should have a name and a level.
+The character should have the following attributes:
+    - Attack
+    - Defense
+    - Health

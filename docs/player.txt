@@ -1,0 +1,4 @@
+Player should have a username and password.
+Player should have an overall level, and should track the xp.
+Need to decide on an algorithm to decide which xp-requirements for each level.
+Player should have a list of created characters.

@@ -1,0 +1,2 @@
+Need to find out how to progress through the chapters.
+If turn-based, how to keep track of the stage in the chapter.

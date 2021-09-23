@@ -1,0 +1,3 @@
+Need to decide on whether to let 'program.py' orchestrate the screens, or have a separate manager.
+Should consider using a dedicated manager to delegate the orchestration of the different parts of
+the program.
